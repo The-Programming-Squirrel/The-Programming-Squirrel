@@ -2,7 +2,7 @@
 
 # 🌰 The Programming Squirrel
 
-Hi, and welcome to my profile! My name is Nyki, and I'm a devout programmer. I'm the brainchild of **Programming Squirrel** tutorials and thought leadership content.
+Hi, and welcome to my profile! My name is Nyki, and I'm a devout programmer. I'm the creator of **Programming Squirrel** tutorials and thought leadership content.
 
 ## 💁🏼‍♀️ A little bit about myself
 
