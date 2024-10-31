@@ -94,9 +94,6 @@ All projects and content released by The Programming Squirrel are shared under t
 <div align="center">
     <a href="#"><img height=25 alt="Joined GitHub" src="https://img.shields.io/github/created-at/The-Programming-Squirrel/The-Programming-Squirrel?style=plastic&logoSize=auto&label=Joined%20in&color=%2363959A"/></a>&emsp;
     <a href="https://github.com/The-Programming-Squirrel/The-Programming-Squirrel/commits/main/"><img height=25 alt="GitHub last commit" src="https://img.shields.io/github/last-commit/The-Programming-Squirrel/The-Programming-Squirrel?display_timestamp=committer&style=plastic&label=Last%20commit&color=%2363959A"/></a>&emsp;
-  <a href="https://visitcount.itsvg.in">
-    <img height=25 src="https://visitcount.itsvg.in/api?id=The-Programming-Squirrel&label=Profile%20views&color=%2363959A&style=plastic" />
-  </a>
 </div>
 
 ### 🔥 Streak Stats
