@@ -19,13 +19,13 @@ The Programming Squirrel is a youthful and honest developer/hacker blog. It is a
   - [🪲 Report a Bug](#-report-a-bug)
   - [🔮 Request Future Content](#-request-future-content)
 - [📌 Pinned Projects](#-pinned-projects)
-- [🔗 Resources](#-resources)
 - [📜 License](#-license)
 - [✨ Credit/Acknowledgement](#-creditacknowledgement)
 - [📊 Profile Analytics](#-profile-analytics)
   - [🔥 Streak Stats](#-streak-stats)
   - [🏆 GitHub Stats](#-github-stats)   
   - [👍 Social Stats](#-social-stats)
+- [🔗 Resources](#-resources)
 
 ---
 
@@ -81,10 +81,6 @@ The Programming Squirrel is a youthful and honest developer/hacker blog. It is a
 
 ---
 
-## 🔗 Resources
-
----
-
 ## 📜 License 
 
 All projects and content released by The Programming Squirrel are shared under the ![BSD-3 clause License](https://img.shields.io/badge/License-white?style=plastic&label=BSD-3&labelColor=white&color=%2363959A&link=https%3A%2F%2Fgithub.com%2FThe-Programming-Squirrel%2FThe-Programming-Squirrel%23BSD-3-Clause-1-ov-file)
@@ -124,9 +120,15 @@ All projects and content released by The Programming Squirrel are shared under t
 
 ## ✨ Credit/Acknowledgement
 
-## 💳 Sponsor My Content
+---
+
+## 💝 Support My Projects
 
 <div align="center">
     <a href="https://www.paypal.com/paypalme/NykiAnderson94"><img height=35 alt="Paypal me" src="https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white" /></a>&emsp;
-  <a href="https://github.com/sponsors/The-Programming-Squirrel"><img height=35 alt="GitHub Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
+  <a href="https://github.com/sponsors/The-Programming-Squirrel"><img height=35 alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsor-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
 </div>
+
+---
+
+## 🔗 Resources
