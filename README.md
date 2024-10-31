@@ -40,11 +40,13 @@ The Programming Squirrel is a youthful and honest developer/hacker blog. It is a
 ### 🎬 Socials & Platforms
 
 <div align="center">
-    <a href="https://dev.to/the-programming-squirrel"><img height=30 alt="Follow on dev.to" src="https://img.shields.io/badge/Follow_on_dev.to-white?style=plastic&logo=devdotto&logoColor=%230A0A0A&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fdev.to%2Fthe-programming-squirrel"></a>&emsp;
-    <a href="https://www.youtube.com/channel/UCHzuRJ_zvNLgHu1WhlskdVQ"><img height=30 alt="Follow YouTube channel" src="https://img.shields.io/badge/Follow_channel-white?style=plastic&logo=youtube&logoColor=%23FF0000&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCHzuRJ_zvNLgHu1WhlskdVQ"></a>&emsp;
-    <a href="mailto:programming.squirrel@gmail.com"><img height=30 alt="Email me" src="https://img.shields.io/badge/Email_me-white?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&color=%2363959A&labelColor=white&link=mailto%3Aprogramming.squirrel%40gmail.com"/></a>&emsp;
-    <a href="https://www.facebook.com/profile.php?id=61567216955618"><img height=30 alt="Follow page" src="https://img.shields.io/badge/Follow_page-white?style=plastic&logo=facebook&logoColor=%230866FF&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61567216955618"/></a>&emsp;
-    <a href="https://x.com/ProgramSquirrel"><img height=30 alt="Follow feed" src="https://img.shields.io/badge/Follow_feed-white?style=plastic&logo=x&logoColor=%23000000&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fx.com%2FProgramSquirrel"/></a>&emsp;
+    <a href="https://dev.to/the-programming-squirrel"><img height=30 alt="Follow on dev.to" src="https://img.shields.io/badge/DEV-white?style=plastic&logo=devdotto&logoColor=%230A0A0A&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fdev.to%2Fthe-programming-squirrel"></a>&emsp;
+    <a href="https://www.youtube.com/channel/UCHzuRJ_zvNLgHu1WhlskdVQ"><img height=30 alt="Follow YouTube channel" src="https://img.shields.io/badge/YouTube-white?style=plastic&logo=youtube&logoColor=%23FF0000&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCHzuRJ_zvNLgHu1WhlskdVQ"></a>&emsp;
+    <a href="mailto:programming.squirrel@gmail.com"><img height=30 alt="Email me" src="https://img.shields.io/badge/Email-white?style=plastic&logo=gmail&logoColor=%23EA4335&logoSize=auto&color=%2363959A&labelColor=white&link=mailto%3Aprogramming.squirrel%40gmail.com"/></a>&emsp;
+    <a href="https://www.facebook.com/profile.php?id=61567216955618"><img height=30 alt="Follow page" src="https://img.shields.io/badge/Facebook-white?style=plastic&logo=facebook&logoColor=%230866FF&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61567216955618"/></a>&emsp;
+    <a href="https://x.com/ProgramSquirrel"><img height=30 alt="Follow feed" src="https://img.shields.io/badge/X-white?style=plastic&logo=x&logoColor=%23000000&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fx.com%2FProgramSquirrel" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/the-programming-squirrel/"><img height=30 alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&color=%2363959A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthe-programming-squirrel%2F" /></a>
+
 </div>
 
 ---
