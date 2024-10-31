@@ -124,3 +124,9 @@ All projects and content released by The Programming Squirrel are shared under t
 
 ## ✨ Credit/Acknowledgement
 
+## 💳 Sponsor My Content
+
+<div align="center">
+    <a href="https://www.paypal.com/paypalme/NykiAnderson94"><img height=35 alt="Paypal me" src="https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white" /></a>&emsp;
+  <a href="https://github.com/sponsors/The-Programming-Squirrel"><img height=35 alt="GitHub Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
+</div>
