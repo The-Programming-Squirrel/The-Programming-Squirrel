@@ -46,7 +46,10 @@ Weekly challenges to test your cybersecurity skills.
 Polls and surveys to shape our future content.
 Live Q&A sessions with Nyki Anderson and other experts.
 
-Stay connected to explore, learn, and grow at The-Programming-Squirrel [Blog](https://the-programming-squirrel.com/blog)!  
+Stay connected to explore, learn, and grow at The-Programming-Squirrel.
+
+![Blog Static Badge](https://img.shields.io/badge/Blog-white?style=social&logo=jekyll&logoColor=%23CC0000&logoSize=auto&link=https%3A%2F%2Fthe-programming-squirrel.com%2F)
+
 
 ---  
 
@@ -64,11 +67,24 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) before getting star
 ## Join Our Community 🗨️
 
 Connect with us on social media, join our newsletter, or engage with the community:
-- **YouTube**: [@ProgrammingSquirrel](https://www.youtube.com/channel/UCdyKu5Bz2zV-vrwVUuiueQw)
-- **Facebook**: [The-Programming-Squirrel](https://www.facebook.com/profile.php?id=61567216955618)
-- **Twitter**: [@ProgrammingSquirl](https://twitter.com/ProgrammingSquirl)  
-- **LinkedIn**: [The-Programming-Squirrel](https://linkedin.com/in/ProgrammingSquirrel)  
-- **Newsletter**: [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSctlJmI_JjCl8S_bK6XfFsQj3Nhq5InCmIK4uQPjHKNT-C95g/viewform?usp=header)  
+
+<!-- Discord Badge -->
+![Discord Static Badge](https://img.shields.io/badge/Discord-white?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&link=https%3A%2F%2Fdiscord.gg%2FKyQbWaExdt)
+
+<!-- Patreon Badge -->
+![Patreon Static Badge](https://img.shields.io/badge/Patreon-white?style=social&logo=patreon&logoColor=%2300000&logoSize=auto&link=https%3A%2F%2Fwww.patreon.com%2Fc%2FTheProgrammingSquirrel)
+
+<!-- YouTube Badge -->
+![YouTube Static Badge](https://img.shields.io/badge/YouTube-white?style=social&logo=youtube&logoColor=%23FF0000&logoSize=auto&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCdyKu5Bz2zV-vrwVUuiueQw)
+
+<!-- Facebook Badge -->
+![Facebook Static Badge](https://img.shields.io/badge/Facebook-white?style=social&logo=facebook&logoColor=%230866FF&logoSize=auto&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61567216955618)
+
+<!-- X (formerly Twitter) Badge -->
+![Twitter Static Badge](https://img.shields.io/badge/X_(formerly_Twitter)-white?style=social&logo=x&logoColor=%2300000&logoSize=auto&link=https%3A%2F%2Fx.com%2FProgramSquirrel)
+
+<!-- Reddit Badge -->
+![Reddit Static Badge](https://img.shields.io/badge/Reddit-white?style=social&logo=reddit&logoColor=%23FF4500&logoSize=auto&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FProgramming-Squirrel%2F)
 
 ---  
 
@@ -153,3 +169,4 @@ Every contribution, no matter the size, makes a difference in helping us create 
 
 Your support fuels our mission to make cybersecurity learning accessible, inclusive, and fun for everyone. Thank you for being part of this journey ❣️
 
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/The-Programming-Squirrel">
