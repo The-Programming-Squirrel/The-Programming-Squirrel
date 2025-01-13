@@ -2,11 +2,11 @@
 
 Welcome to **The-Programming-Squirrel**, where we empower women and beginners to crack the code in cybersecurity! Whether you're just starting your journey or looking to level up, we provide resources, tools, and a supportive community to help you succeed.  
 
-![General Banner](https://github.com/user-attachments/assets/f83ec431-46fb-4633-ae28-c521a3b3f8eb)
+![The-Programming-Squirrel Logo Banner with Brand Color Palette](https://github.com/user-attachments/assets/f83ec431-46fb-4633-ae28-c521a3b3f8eb)
 
 *Empowering Women and Beginners to Crack the Code in Cybersecurity*
 
----  
+---
 
 ## About The Brand 👩🏼‍💻
 
@@ -23,24 +23,24 @@ Here’s a sneak peek at what we’re working on:
 
 ---  
 
-## Blog Sneak Peek 🖋️
+## Blog Content 🖋️
 
 Get excited for what’s coming to The-Programming-Squirrel Blog! Here’s a sneak peek at our upcoming content and exclusive features:
 
-**Future Articles:**
+### Future Articles
 
 1. "Top 10 Cybersecurity Myths Debunked by Experts"
 2. "A Beginner’s Guide to Ethical Hacking Tools"
 3. "How to Build a Docker Lab for Security Testing"
 4. "Women Trailblazers in Cybersecurity: Stories to Inspire"
 
-**Behind-the-Scenes Content:**
+### Behind-the-Scenes Content
 
 A look into how our study guides are crafted.
 Live updates on Nyki Anderson’s personal projects and certifications.
 Sneak peeks of our upcoming interactive tools and resources.
 
-**Interactive Features Coming Soon:**
+### Interactive Features (Coming Soon!)
 
 Weekly challenges to test your cybersecurity skills.
 Polls and surveys to shape our future content.
@@ -61,7 +61,7 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) before getting star
 
 ---  
 
-## Get Involved 🗨️
+## Join Our Community 🗨️
 
 Connect with us on social media, join our newsletter, or engage with the community:
 - **YouTube**: [@ProgrammingSquirrel](https://www.youtube.com/channel/UCdyKu5Bz2zV-vrwVUuiueQw)
@@ -101,7 +101,7 @@ At The-Programming-Squirrel, we believe in:
 
 ---  
 
-## Contact Information 📭
+## Contact Information 📬
 
 Got questions or ideas? Reach out to us!  
 - **Email**: [nyki@the-programming-squirrel.com](mailto:nyki@the-programming-squirrel.com)  
