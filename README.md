@@ -1,4 +1,4 @@
-# 🌰 The-Programming-Squirrel
+# 🐿️ The-Programming-Squirrel
 
 ![facebook_cover_photo_2](https://github.com/user-attachments/assets/0c316699-68f1-452a-8390-4e77a345a716)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## ℹ️ About the Brand
+## 👩🏼‍💻 About the Brand
 
 **The-Programming-Squirrel** is a vibrant and inclusive brand dedicated to empowering aspiring cybersecurity professionals, with a special focus on beginners and women breaking into the field. Designed to demystify cybersecurity concepts, The-Programming-Squirrel delivers accessible, relatable, and fun tutorials, comprehensive certification guides, and practical career advice.
 
