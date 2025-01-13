@@ -81,7 +81,7 @@ Here’s what you’ll find on The-Programming-Squirrel:
 
 ---  
 
-## Subscription Tiers 💝
+## Subscription Tiers 🌰
 
 Explore our subscription plans designed for all learners:  
 - **Squirrel Scout**: Free resources and basic guides.  
@@ -132,12 +132,16 @@ Stay tuned for updates!
 
 ---  
 
-## Feedback and Support 👏
+## GitHub Sponsors 💝
 
-Your feedback is invaluable! Share your thoughts or ask for help through:  
-- **GitHub Issues**  
-- **Community Forums**  
-- **Email**  
+The-Programming-Squirrel thrives thanks to the amazing support of our community. By sponsoring us on GitHub, you directly contribute to:
 
-We’re here to support your journey. Let’s crack the code together!  
+- Creating high-quality tutorials and study guides for cybersecurity certifications like Burp Suite Practitioner and CompTIA Security+.
+- Developing open-source projects and tools to empower learners and professionals in the cybersecurity field.
+- Expanding our content library to inspire and uplift women and beginners breaking into the industry.
 
+Every contribution, no matter the size, makes a difference in helping us create valuable resources for our community.
+
+🎉 [Become a Sponsor Today!](https://github.com/sponsors/The-Programming-Squirrel)
+
+Your support fuels our mission to make cybersecurity learning accessible, inclusive, and fun for everyone. Thank you for being part of this journey ❣️
