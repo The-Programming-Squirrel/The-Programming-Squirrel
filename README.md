@@ -86,6 +86,10 @@ Connect with us on social media, join our newsletter, or engage with the communi
 <!-- Reddit Badge -->
 ![Reddit Static Badge](https://img.shields.io/badge/Reddit-white?style=social&logo=reddit&logoColor=%23FF4500&logoSize=auto&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FProgramming-Squirrel%2F)
 
+<!-- Newsletter Badge -->
+![Newsletter Static Badge](https://img.shields.io/badge/Join_Newsletter-white?style=social&logo=gmail&logoColor=%23EA4335&logoSize=auto&link=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSctlJmI_JjCl8S_bK6XfFsQj3Nhq5InCmIK4uQPjHKNT-C95g%2Fviewform%3Fusp%3Dheader)
+
+
 ---  
 
 ## Features and Resources 🗄️
