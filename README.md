@@ -111,7 +111,14 @@ Got questions or ideas? Reach out to us!
 
 ## License 📜
 
-All content and code are shared under the **MIT License** unless otherwise stated. See the [LICENSE](LICENSE.md) file for details.  
+All content and code in this repository are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. This means you are free to share, adapt, and use the materials, even for commercial purposes, as long as you provide proper attribution.
+
+### Key Points:
+- **Attribution**: Give appropriate credit to The-Programming-Squirrel and its creator, Nyki Anderson. Include a link to the license and indicate any changes you make.
+- **Freedom to Use**: You can copy, remix, and build upon the material for any purpose, provided you adhere to the terms.
+- **Full License Text**: For detailed terms, please refer to [LICENSE](LICENSE) in this repository.
+
+For more information on the Creative Commons Attribution 4.0 International license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 ---  
 
@@ -145,3 +152,4 @@ Every contribution, no matter the size, makes a difference in helping us create 
 🎉 [Become a Sponsor Today!](https://github.com/sponsors/The-Programming-Squirrel)
 
 Your support fuels our mission to make cybersecurity learning accessible, inclusive, and fun for everyone. Thank you for being part of this journey ❣️
+
